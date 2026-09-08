@@ -1,7 +1,7 @@
 import requests
 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
-OSRM_BASE_URL = "http://router.project-osrm.org"
+OSRM_BASE_URL = "https://router.project-osrm.org"
 USER_AGENT = "FMCSA-ELD-TripPlanner/1.0 (contact: admin@tripplanner.dev)"
 
 
